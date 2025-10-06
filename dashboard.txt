@@ -1,1 +1,3 @@
-Main: updated dashboard content (different from feature)
+
+Feature: different dashboard content (from feature/dashboard)
+Some dashboard notes
