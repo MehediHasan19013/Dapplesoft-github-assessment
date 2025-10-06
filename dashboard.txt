@@ -1,1 +1,1 @@
-Notes about dashboard
+Feature: different dashboard content (from feature/dashboard)
